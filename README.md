@@ -1,20 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hey Everyone! 👋, I'm Viraj Chandra</h1>
+<h3 align="center">Student.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=virajchandra51&label=Profile%20views&color=0e75b6&style=flat" alt="virajchandra51" /> </p>
 
-<!--
-**Basavaraj8143/Basavaraj8143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-````md
+- 📫 <samp>How to reach me virajchandra51@gmail.com
 ## ⚡ Run My Developer Profile in Terminal
 
 ```bash
@@ -22,6 +10,3 @@ npx basavarajn
 ````
 
 > Interactive CLI portfolio — explore my projects, skills, and journey directly from your terminal.
-
-```
-```
