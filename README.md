@@ -6,5 +6,4 @@
 ```bash
 npx basavarajmn
 ````
-
 > Interactive CLI portfolio — explore my projects, skills, and journey directly from your terminal.
