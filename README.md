@@ -18,42 +18,39 @@ npx basavarajmn
 <br>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║              Basavaraj Ningasani                         ║
-║     CSE Student · Aspiring Software Engineer             ║
-║                  Karnataka, India                        ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ◆ CONNECT                                               ║
-║                                                          ║
-║  ⌥ GitHub    github.com/Basavaraj8143                    ║
-║  ⌥ LinkedIn  linkedin.com/in/basavaraj-ningasani         ║
-║  ⌥ Email     basavarajningasani123@gmail.com             ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ◆ TECH STACK                                            ║
-║                                                          ║
-║  Frontend   [ React ]  [ Next.js ]                       ║
-║  Backend    [ Node.js ]  [ Python ]                      ║
-║  Database   [ MySQL ]  [ MongoDB ]                       ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║  ◆ PROJECTS                                              ║
-║                                                          ║
-║  ◈ Studium           · Electron-based PDF Browser        ║
-║  ◈ AgriSense         · AI Smart Farming Platform         ║
-║  ◈ Audio2Notes AI    · Lecture Audio → Structured Notes  ║
-║  ◈ Distributed Store · Fault-tolerant Storage System     ║
-║                                                          ║
-╠══════════════════════════════════════════════════════════╣
-║                                                          ║
-║   ⚡ Building real-world systems · Backend-first         ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
++----------------------------------------------------------+
+|                                                          |
+|             Basavaraj Ningasani                          |
+|    CSE Student . Aspiring Software Engineer              |
+|                 Karnataka, India                         |
+|                                                          |
++----------------------------------------------------------+
+|  * CONNECT                                               |
+|                                                          |
+|  > GitHub    github.com/Basavaraj8143                    |
+|  > LinkedIn  linkedin.com/in/basavaraj-ningasani         |
+|  > Email     basavarajningasani123@gmail.com             |
+|                                                          |
++----------------------------------------------------------+
+|  * TECH STACK                                            |
+|                                                          |
+|  Frontend   [ React ]  [ Next.js ]                       |
+|  Backend    [ Node.js ]  [ Python ]                      |
+|  Database   [ MySQL ]  [ MongoDB ]                       |
+|                                                          |
++----------------------------------------------------------+
+|  * PROJECTS                                              |
+|                                                          |
+|  # Studium           . Electron-based PDF Browser        |
+|  # AgriSense         . AI Smart Farming Platform         |
+|  # Audio2Notes AI    . Lecture Audio -> Structured Notes |
+|  # Distributed Store . Fault-tolerant Storage System     |
+|                                                          |
++----------------------------------------------------------+
+|                                                          |
+|   ⚡ Building real-world systems . Backend-first         |
+|                                                          |
++----------------------------------------------------------+
 ```
 
 </details>
