@@ -13,7 +13,7 @@ npx basavarajmn
 > Interactive CLI portfolio — explore my projects, skills, and journey directly from your terminal.
 
 <details>
-<summary>👀 Preview the card</summary>
+<summary>👀</summary>
 
 <br>
 
