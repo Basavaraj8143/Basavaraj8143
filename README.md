@@ -44,7 +44,7 @@ npx basavarajmn
 |  # Studium           . Electron-based PDF Browser        |
 |  # AgriSense         . AI Smart Farming Platform         |
 |  # Audio2Notes AI    . Lecture Audio -> Structured Notes |
-|  # Distributed Store . Fault-tolerant Storage System     |
+|  # Distributed Storage system . Fault-tolerant Storage System     |
 |                                                          |
 +----------------------------------------------------------+
 |                                                          |
