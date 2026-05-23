@@ -2,7 +2,7 @@
 
 <samp>
 
-Reach me out [basavarajningasani123@gmail.com](mailto:basavarajningasani123@gmail.com)
+Reach me out~! [basavarajningasani123@gmail.com](mailto:basavarajningasani123@gmail.com)
 
 Portfolio:www.basavaraj.tech
 
