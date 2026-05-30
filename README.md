@@ -59,4 +59,8 @@ npx basavarajmn
 </details>
 
 </samp>
-[![Profile Views](https://komarev.com/ghpvc/?username=Basavaraj8143&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/Basavaraj8143)
+<p align="center">
+  <a href="https://github.com/Basavaraj8143">
+    <img src="https://komarev.com/ghpvc/?username=Basavaraj8143&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  </a>
+</p>
