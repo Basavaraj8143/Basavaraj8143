@@ -6,7 +6,7 @@ Reach me out ~! [basavarajningasani123@gmail.com](mailto:basavarajningasani123@g
 
 Portfolio:www.basavaraj.tech
 
-## ⚡ Run My Developer Profile in Terminal
+## ⚡ Run My Developer Profile in your Terminal
 
 ```bash
 npx basavarajmn
